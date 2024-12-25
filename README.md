@@ -1,4 +1,4 @@
 # Testrepository
 
-test Ashok Kumar \n
+test Ashok Kumar
 Need to do the modification in artifacts
